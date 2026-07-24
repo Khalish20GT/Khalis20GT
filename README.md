@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👏 I'm Khalish ali muzakki</h1>
+<h1 align="center">Hi 👋 I'm Khalish ali muzakki</h1>
 <h3 align="center">RPL Student | Web Developer Enthusiast | Always Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalish20gt&label=Profile%20views&color=0e75b6&style=flat" alt="khalish20gt"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalish20gt&label=Profile%20views&color=0e75b6&style=flat" alt="khalish20gt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalish20gt" alt=/>
- "khalish20gt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalish20gt" alt="khalish20gt" /></a> </p>
 
-- 🌱currently learning **Laravel,php,MYSQL,Bootstrap**
+- 🌱 I’m currently learning **Laravel,php,MYSQL,Bootstrap**
 
-- 💬Ask me about
-  **Coding,Laravel,Debugging**
+- 💬 Ask me about **Coding,Laravel,Debugging**
 
-- 📫How to reach me **khalishalimuzakki2009@gmail.com**
+- 📫 How to reach me **khalishalimuzakki2009@gmail.com**
 
-- ⚡Fun fact
-  **I'm always curious about how things   work.**
+- ⚡ Fun fact **I'm always curious about how things work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/khalishalimuzakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalishalimuzakki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
