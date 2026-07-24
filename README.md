@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalish20gt&label=Profile%20views&color=0e75b6&style=flat" alt="khalish20gt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalish20gt" alt="khalish20gt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalish20gt" alt=<img width="24" height="24" alt="1784868876184831943762250878370" src="https://github.com/user-attachments/assets/6e9a32c9-03c1-4dc9-b5c2-eedea57b124c" />
+ "khalish20gt" /></a> </p>
 
 - 🌱currently learning **Laravel,php,MYSQL,Bootstrap**
 
